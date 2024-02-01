@@ -115,6 +115,7 @@ alias secureDelete=" srm -r /path/to/file "
 # Disk Use
 #   ------------------------------------------------------------
 alias list=" du -h * " 
+alias used="du -hcs"
 
 #   Change Prompt
 #   ------------------------------------------------------------
