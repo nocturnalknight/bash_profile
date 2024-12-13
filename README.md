@@ -59,6 +59,7 @@ git config --global alias.ci "commit -v"
  git config --global alias.log "log --pretty=oneline"
 ```
 
+### Alias Settings on alias.sh
 ```javascript
  git config --global alias.log1 "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
  ```
